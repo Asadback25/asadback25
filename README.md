@@ -18,7 +18,7 @@
 ## 📊 GitHub Statistika
 ![Asad's GitHub stats](https://github-readme-stats.vercel.app/api?username=asadback25&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asadback25E&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asadback25&layout=compact&theme=radical)
 
 ## 📫 Menga bog‘lanish
 - 💼 [LinkedIn](https://www.linkedin.com/in/asadbek-turaev-8b5129358/)  
