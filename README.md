@@ -21,8 +21,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asadback25&layout=compact&theme=radical)
 
 ## 📫 Menga bog‘lanish
-- 💼 [LinkedIn](https://www.linkedin.com/in/asadbek-turaev-8b5129358/)  
-- 📧 Email: t.asad7044@gmail.com  
+- ⌯⌲ [Telegram](https://www.t.me/asad_back)
+-  🅾 [Instagram](https://www.instagram.com/_just_asadbek_)
+-  ⓕ [Instagram](https://www.facebook.com/_just_asadbek_)
+-  🇮🇳 [LinkedIn](https://www.linkedin.com/in/asadbek-turaev-8b5129358/)  
+-  ✉︎ Email: t.asad7044@gmail.com  
 
 ---
 ⭐ Agar loyihalarim sizga yoqqan bo‘lsa, **star bosishni** unutmang!
