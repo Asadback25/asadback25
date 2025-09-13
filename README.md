@@ -22,9 +22,9 @@
 
 ## 📫 Menga bog‘lanish
 - ⌯⌲ [Telegram](https://www.t.me/asad_back)
--  🅾 [Instagram](https://www.instagram.com/_just_asadbek_)
--  ⓕ [Facebook](https://www.facebook.com/_just_asadbek_)
--  🇮🇳 [LinkedIn](https://www.linkedin.com/in/asadbek-turaev-8b5129358/)  
+-  🅾  [Instagram](https://www.instagram.com/_just_asadbek_)
+-  ⓕ  [Facebook](https://www.facebook.com/_just_asadbek_)
+-  🇮🇳  [LinkedIn](https://www.linkedin.com/in/asadbek-turaev-8b5129358/)  
 -  ✉︎ Email: t.asad7044@gmail.com  
 
 ---
