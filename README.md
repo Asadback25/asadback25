@@ -1,31 +1,75 @@
-# 👋 Salom, men Asadbek!  
+<h1 align="center">Hi there! 👋 I'm Asadbek To'rayev</h1>
 
-🚀 **Backend Developer | Python & Flask Lover | Open Source Contributor**  
+<p align="center">
+  🎓 Computer Science Student at <strong>Acharya University</strong> <br/>
+  💡 Turning ideas into real software tools <br/>
+  🌐 Building modern web apps with Python, Flask & Supabase
+</p>
 
-## 💡 Men haqimda
-- 🔭 Hozirda Flask asosida turli **web loyihalar** ustida ishlayapman.  
-- 🌱 **Django, FastAPI, SQLAlchemy** kabi texnologiyalarni chuqurroq o‘rganmoqdaman.  
-- 💬 Menga Python, Flask yoki Web Development haqida savol bersangiz bo‘ladi.  
-- 🎯 Maqsadim: Senior Backend Developer bo‘lish va katta Open Source loyihalarga hissa qo‘shish.  
-
-## ⚡ Texnologiyalar va Ko‘nikmalar
-- **Tillar:** Python, JavaScript, SQL  
-- **Backend:** Flask, Django, FastAPI  
-- **Frontend:** HTML, CSS, Bootstrap, React (asosiy darajada)  
-- **Database:** MySQL, PostgreSQL, SQLite  
-- **Asboblar:** Git, GitHub, Docker, Linux  
-
-## 📊 GitHub Statistika
-![Asad's GitHub stats](https://github-readme-stats.vercel.app/api?username=asadback25&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asadback25&layout=compact&theme=radical)
-
-## 📫 Menga bog‘lanish
-- ⌯⌲ [Telegram](https://www.t.me/asad_back)
--  🅾  [Instagram](https://www.instagram.com/_just_asadbek_)
--  ⓕ  [Facebook](https://www.facebook.com/_just_asadbek_)
--  In  [LinkedIn](https://www.linkedin.com/in/asadbek-turaev-8b5129358/)  
--  ✉︎ Email: t.asad7044@gmail.com  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub!;Flask+Developer+&+Python+Enthusiast;Building+Real-World+Web+Apps" alt="Typing SVG">
+</p>
 
 ---
-⭐ Agar loyihalarim sizga yoqqan bo‘lsa, **star bosishni** unutmang!
+
+
+
+
+
+
+## 🚀 About Me
+
+Hello! I’m **Asadbek To'rayev**, a passionate developer from Uzbekistan 🇺🇿.  
+Currently, I’m pursuing a degree in **Computer Science at Acharya University**.  
+
+I love turning ideas into **real-world applications** that solve problems in **education, productivity, and daily life**.  
+My focus is on **backend development, cloud storage, and full-stack web apps** using **Python, Flask & Supabase**.
+
+---
+
+## 🛠️ My Tech Stack
+
+| Category       | Tools & Skills |
+|----------------|----------------|
+| 💻 Languages   | Python, JavaScript, HTML, CSS, SQL |
+| ⚙️ Frameworks  | Flask, Bootstrap, Jinja2 |
+| 🗄️ Databases   | PostgreSQL, Supabase |
+| 🌐 Frontend    | HTML5, CSS3, Bootstrap, Responsive Design |
+| 🧪 Tools       | Git, GitHub, Postman, VS Code |
+| ☁️ Cloud       | Supabase, REST APIs, Cloud Storage |
+
+---
+
+## 📊 GitHub Stats & Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asadback25&show_icons=true&theme=radical&count_private=true&hide_title=true&hide_border=false&icon_color=ff69b4" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadback25&layout=compact&theme=radical&langs_count=8&hide_title=true&hide_border=false" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asadback25&theme=radical&hide_border=false" height="150" />
+</p>
+
+---
+
+## 📫 Contact Me
+
+<p align="center">
+  
+  <a href="mailto:t.asad7044@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-gradient?style=for-the-badge&logo=gmail&logoColor=fff&colorA=1abc9c&colorB=16a085" />
+  </a>
+  <a href="https://t.me/asad_back">
+    <img src="https://img.shields.io/badge/Telegram-@asadbek-gradient?style=for-the-badge&logo=telegram&logoColor=fff&colorA=3498db&colorB=9b59b6" />
+  </a>
+  <a href="https://www.linkedin.com/in/asadbek-turaev-8b5129358/">
+    <img src="https://img.shields.io/badge/LinkedIn-asadbek-gradient?style=for-the-badge&logo=linkedin&logoColor=fff&colorA=0077B5&colorB=00bfff" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  Made with ❤️ by Asadbek To'rayev
+</p>
