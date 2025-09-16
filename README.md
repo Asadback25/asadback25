@@ -44,10 +44,10 @@ My focus is on **backend development, cloud storage, and full-stack web apps** u
 
 <section id="github" class="github-stats">
   <div class="container text-center">
-    <img src="https://github-readme-stats.vercel.app/api?username=asadback25&show_icons=true&theme=radical&count_private=true&hide_title=true&hide_border=false&icon_color=ff69b4" height="170" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadback25&layout=compact&theme=radical&langs_count=8&hide_title=true&hide_border=false" height="170" />
+    <img src="https://github-readme-stats.vercel.app/api?username=asadback25&show_icons=true&theme=radical&count_private=true&hide_title=true&hide_border=false&icon_color=ff69b4" height="130" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadback25&layout=compact&theme=radical&langs_count=8&hide_title=true&hide_border=false" height="130" />
     <br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=asadback25&theme=radical&hide_border=false" height="170" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=asadback25&theme=radical&hide_border=false" height="130" />
   </div>
 </section>
 
