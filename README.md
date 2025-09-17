@@ -42,14 +42,36 @@ My focus is on **backend development, cloud storage, and full-stack web apps** u
 
 ## 📊 GitHub Stats & Languages
 
-<section id="github" class="github-stats">
+<section id="github" class="github-stats py-5">
   <div class="container text-center">
-    <img src="https://github-readme-stats.vercel.app/api?username=asadback25&show_icons=true&theme=radical&count_private=true&hide_title=true&hide_border=false&icon_color=ff69b4" height="130" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadback25&layout=compact&theme=radical&langs_count=8&hide_title=true&hide_border=false" height="130" />
+    <!-- GitHub Stats -->
+    <a href="https://github.com/asadback25" target="_blank">
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=asadback25&show_icons=true&theme=radical&count_private=true&include_all_commits=true"
+        alt="Asadbek GitHub Stats"
+        height="150"
+      />
+    </a>
+    <!-- Most Used Languages -->
+    <a href="https://github.com/asadback25" target="_blank">
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadback25&layout=compact&theme=radical&langs_count=8"
+        alt="Asadbek Top Languages"
+        height="150"
+      />
+    </a>
     <br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=asadback25&theme=radical&hide_border=false" height="130" />
+    <!-- Streak Stats -->
+    <a href="https://github.com/asadback25" target="_blank">
+      <img 
+        src="https://github-readme-streak-stats.herokuapp.com?user=asadback25&theme=radical"
+        alt="Asadbek GitHub Streak"
+        height="150"
+      />
+    </a>
   </div>
 </section>
+
 
 ---
 
