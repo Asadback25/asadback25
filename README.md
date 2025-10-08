@@ -40,6 +40,7 @@ Hi! I'm **Asadbek**, a second-year programming student from Uzbekistan. I enjoy 
 ### Databases
 
 * PostgreSQL
+* MongoDB
 
 ### Problem Solving
 
@@ -62,6 +63,11 @@ Hi! I'm **Asadbek**, a second-year programming student from Uzbekistan. I enjoy 
 A personal web library built with Flask, SQLAlchemy, and PostgreSQL.
 **Live:** [library.coderboys.uz](https://library.coderboys.uz/)
 
+### 👥 Our Community
+
+Our Coderboys community
+**Live:** [project.coderboys.uz](https://project.coderboys.uz/)
+
 ### 🤖 Telegram Bots
 
 Created multiple Telegram bots for anonymous chat, automation, and small utilities using Aiogram.
@@ -82,12 +88,11 @@ A collection of my solved LeetCode problems in Python, focusing on logic clarity
 
 ## Contact
 
-* **LinkedIn:** [linkedin.com/in/<your-handle>](https://linkedin.com/in/<your-handle>)
-* **LeetCode:** [leetcode.com/<your-handle>](https://leetcode.com/u/Asadback25/))
-* **Email:** [your-email@example.com](mailto:your-email@example.com)
-* **Telegram:** [t.me/<your-username>](https://t.me/<your-username>)
+* **LinkedIn:** [Asadback25](https://www.linkedin.com/in/asadbek-turaev-8b5129358/)
+* **LeetCode:** [Asadback25](https://leetcode.com/u/Asadback25/)
+* **Email:** [Asadback25](t.asad7044@gmail.com)
+* **Telegram:** [Asadback25](https://t.me/asad_back)
 
-(Replace links with your actual accounts)
 
 ---
 
