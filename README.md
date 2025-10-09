@@ -1,4 +1,4 @@
-# Asad — Backend Developer & Bot Creator 💻
+# Asad — Backend Developer & Bot Creator 
 
 > **Student | Backend Developer | Bot Creator | Problem Solver**
 
@@ -58,21 +58,21 @@ Hi! I'm **Asadbek**, a second-year programming student from Uzbekistan. I enjoy 
 
 ## Projects
 
-### 🧠 CoderBoys Library
+### CoderBoys Library
 
 A personal web library built with Flask, SQLAlchemy, and PostgreSQL.
 **Live:** [library.coderboys.uz](https://library.coderboys.uz/)
 
-### 👥 Our Community
+### Our Community
 
 Our Coderboys community
 **Live:** [project.coderboys.uz](https://project.coderboys.uz/)
 
-### 🤖 Telegram Bots
+### Telegram Bots
 
 Created multiple Telegram bots for anonymous chat, automation, and small utilities using Aiogram.
 
-### 💡 LeetCode Algorithms
+### LeetCode Algorithms
 
 A collection of my solved LeetCode problems in Python, focusing on logic clarity and efficiency.
 
@@ -96,7 +96,7 @@ A collection of my solved LeetCode problems in Python, focusing on logic clarity
 
 ---
 
-### 📊 GitHub Statistics
+### GitHub Statistics
 
 ![Asad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asadback25&show_icons=true&theme=radical)
 ![Asad's Streak](https://github-readme-streak-stats.herokuapp.com/?user=asadback25&theme=radical)
