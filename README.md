@@ -96,6 +96,15 @@ A collection of my solved LeetCode problems in Python, focusing on logic clarity
 
 ---
 
+### 📊 GitHub Statistics
+
+![Asad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asadback25&show_icons=true&theme=radical)
+![Asad's Streak](https://github-readme-streak-stats.herokuapp.com/?user=asadback25&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asadback25&layout=compact&theme=radical)
+
+
+---
+
 ### Final Note
 
 A simple and clear README showing me as a **Backend Developer**, **Bot Creator**, and **LeetCode Problem Solver**, currently learning **FastAPI** and improving backend expertise.
