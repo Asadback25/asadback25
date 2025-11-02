@@ -1,4 +1,4 @@
-# Asad — Backend Developer & Bot Creator 
+# Asad — Backend Developer 
 
 > **Student | Backend Developer | Bot Creator | Problem Solver**
 
@@ -92,7 +92,7 @@ A collection of my solved LeetCode problems in Python, focusing on logic clarity
 * **LinkedIn:** [Asadback25](https://www.linkedin.com/in/asadbek-turaev-8b5129358/)
 * **LeetCode:** [Asadback25](https://leetcode.com/u/Asadback25/)
 * **Email:** [Asadback25](t.asad7044@gmail.com)
-* **Telegram:** [Asadback25](https://t.me/asad_back)
+* **Telegram:** [Asadback25](https://t.me/asadback25)
 
 
 ---
